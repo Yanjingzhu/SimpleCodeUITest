@@ -1,0 +1,6 @@
+C:\Users\vyjingz\source\repos\SimpleWPFApp\CodedUITestProject1\bin\Debug\CodedUITestProject1.dll
+C:\Users\vyjingz\source\repos\SimpleWPFApp\CodedUITestProject1\bin\Debug\CodedUITestProject1.pdb
+C:\Users\vyjingz\source\repos\SimpleWPFApp\CodedUITestProject1\obj\Debug\CodedUITestProject1.csproj.CoreCompileInputs.cache
+C:\Users\vyjingz\source\repos\SimpleWPFApp\CodedUITestProject1\obj\Debug\CodedUITestProject1.dll
+C:\Users\vyjingz\source\repos\SimpleWPFApp\CodedUITestProject1\obj\Debug\CodedUITestProject1.pdb
+C:\Users\vyjingz\source\repos\SimpleWPFApp\CodedUITestProject1\obj\Debug\CodedUITestProject1.csprojAssemblyReference.cache

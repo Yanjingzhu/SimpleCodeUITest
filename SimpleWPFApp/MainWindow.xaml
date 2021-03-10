@@ -1,0 +1,15 @@
+﻿<Window x:Class="SimpleWPFApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SimpleWPFApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="buttonA" Content="Start" HorizontalAlignment="Left" Margin="134,94,0,0" VerticalAlignment="Top" Width="119" Height="45" Click="Button_Click"/>
+        <CheckBox x:Name="checkBox1" Content="CheckBox" HorizontalAlignment="Left" Margin="134,272,0,0" VerticalAlignment="Top" Height="24" Width="94" IsEnabled="False"/>
+        <ProgressBar x:Name="progressBar1" HorizontalAlignment="Left" Height="10" Margin="134,204,0,0" VerticalAlignment="Top" Width="214" Maximum="10000" Minimum="100"/>
+
+    </Grid>
+</Window>
